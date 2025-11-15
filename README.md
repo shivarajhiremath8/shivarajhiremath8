@@ -8,7 +8,7 @@ I'm a frontend developer and designer building intuitive, modern web experiences
 
 - **Languages & Frameworks:** Python, JavaScript (ES6+), TypeScript, React, Next.js
 - **Styling & Design:** CSS3, Tailwind CSS, Framer, Figma
-- **Backend & Other:** FastAPI, Node.js, Firebase, MongoDB, OpenCV, Git, Postman
+- **Backend & Other:** FastAPI, Node.js, Firebase, MySQL, MongoDB, OpenCV, Git, Postman
 
 ---
 
@@ -27,9 +27,9 @@ I'm a frontend developer and designer building intuitive, modern web experiences
 
 ## Let’s Connect
 
-| 🌐 Website | LinkedIn | Blogs | GitHub | 📧 Email |
+| Website | LinkedIn | Showcase | GitHub | Email |
 | :----------: | :--------: | :--------: | :-------: | :------: |
-| [Portfolio](https://shivarajhiremath.framer.website/) | [https://www.linkedin.com/in/shivaraj-hiremath-01782331a/](https://www.linkedin.com/in/shivaraj-hiremath-01782331a/) | [https://shivarajhiremath.framer.website/blogs](https://shivarajhiremath.framer.website/blogs) | [shivarajhiremath8](https://github.com/shivarajhiremath8) | [shivaraj94826@gmail.com](mailto:shivaraj94826@gmail.com) |
+| [Portfolio](https://shivarajhiremath.framer.website/) | [Shivaraj Hiremath](https://www.linkedin.com/in/shivaraj-hiremath-01782331a/) | [Blogs](https://shivarajhiremath.framer.website/blogs) | [shivarajhiremath8](https://github.com/shivarajhiremath8) | [shivaraj94826@gmail.com](mailto:shivaraj94826@gmail.com) |
 
 ---
 
