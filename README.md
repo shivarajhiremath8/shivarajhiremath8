@@ -17,10 +17,10 @@ I'm a frontend developer and designer building intuitive, modern web experiences
 - **[AI-virtual-mouse](https://github.com/shivarajhiremath8/AI-virtual-mouse)**
   A virtual mouse that uses MediaPipe and OpenCV to control the cursor through real-time hand gestures.
 - **[Quad-Segretronics-Dashboard](https://shivarajhiremath8.github.io/mainproject/)**
-  A responsive web dashboard for AI-based smart waste segregation built with HTML, Tailwind CSS, and JavaScript.
+  A responsive web dashboard for AI-based smart waste segregation built with HTML, Tailwind CSS, & JS.
 - **[Milking Brand](https://www.milking.org.in/)**
   India’s first Certified Humane Dairy brand promoting ethical farming and premium-quality milk products.
-- **[Milking Brand](https://www.milking.org.in/)**
+- **[Json-tree-visualizer](https://json-tree-visualizer-shivaraj.vercel.app/)**
   A React + React Flow tool to visualize JSON as a clean, searchable, and zoomable hierarchical tree.
 
 ---
@@ -29,7 +29,7 @@ I'm a frontend developer and designer building intuitive, modern web experiences
 
 | 🌐 Website | LinkedIn | Blogs | GitHub | 📧 Email |
 | :----------: | :--------: | :--------: | :-------: | :------: |
-| [Portfolio](https://shivarajhiremath.framer.website/) | [Linkedin](https://www.linkedin.com/in/shivaraj-hiremath-01782331a/) | [@Blogs](https://shivarajhiremath.framer.website/blogs) | [@shivarajhiremath8](https://github.com/shivarajhiremath8) | [shivaraj94826@gmail.com](mailto:shivaraj94826@gmail.com) |
+| [Portfolio](https://shivarajhiremath.framer.website/) | [https://www.linkedin.com/in/shivaraj-hiremath-01782331a/](https://www.linkedin.com/in/shivaraj-hiremath-01782331a/) | [https://shivarajhiremath.framer.website/blogs](https://shivarajhiremath.framer.website/blogs) | [shivarajhiremath8](https://github.com/shivarajhiremath8) | [shivaraj94826@gmail.com](mailto:shivaraj94826@gmail.com) |
 
 ---
 
