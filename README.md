@@ -6,7 +6,7 @@ I'm a frontend developer and designer building intuitive, modern web experiences
 
 ## Tech Stack
 
-- **Languages & Frameworks:** Python, JavaScript (ES6+), TypeScript, React, Next.js
+- **Languages & Frameworks:** Python, JavaScript (ES6+), TypeScript, React.js
 - **Styling & Design:** CSS3, Tailwind CSS, Framer, Figma
 - **Backend & Other:** FastAPI, Node.js, Firebase, MySQL, MongoDB, OpenCV, Git, Postman
 
