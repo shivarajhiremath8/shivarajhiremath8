@@ -1,4 +1,4 @@
-# Hi 👋
+# Hi there👋
 
 I'm a frontend developer and designer building intuitive, modern web experiences with clean code, thoughtful design, and a strong focus on performance and usability, Currently expanding into full-stack development.
 
