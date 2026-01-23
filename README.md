@@ -21,7 +21,7 @@ I'm a frontend developer and designer building intuitive, modern web experiences
   A responsive web dashboard for AI-based smart waste segregation built with HTML, Tailwind CSS, & JS.
 - **[Milking Brand](https://www.milking.org.in/)**
   India’s first Certified Humane Dairy brand promoting ethical farming and premium-quality milk products.
-- **[Json-tree-visualizer](https://json-tree-visualizer-shivaraj.vercel.app/)**
+- **[Json-tree-visualizer](https://json-tree-visualizer-prototype.vercel.app/)**
   A React + React Flow tool to visualize JSON as a clean, searchable, and zoomable hierarchical tree.
 
 ---
