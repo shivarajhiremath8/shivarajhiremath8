@@ -17,7 +17,8 @@ I'm a frontend developer and designer building intuitive, modern web experiences
 
 - **[AI-virtual-mouse](https://github.com/shivarajhiremath8/AI-virtual-mouse)**
   A virtual mouse that uses MediaPipe and OpenCV to control the cursor through real-time hand gestures.
-- **[Milking Brand](https://www.milking.org.in/)**
+- **[Milking Brand](https://milking.org.in/)**
+- **[Booking software](https://milking.org.in/book-farm-visit)**
   India’s first Certified Humane Dairy brand promoting ethical farming and premium-quality milk products.
 - **[Quad-Segretronics-Dashboard](https://shivarajhiremath8.github.io/mainproject/)**
   A responsive web dashboard for AI-based smart waste segregation built with HTML, Tailwind CSS, & JS.
