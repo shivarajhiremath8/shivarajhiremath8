@@ -13,6 +13,10 @@ I'm a frontend developer and designer building intuitive, modern web experiences
 
 ---
 
+## Figma Projects
+- **[All Design's link](https://www.figma.com/design/N1PJRCKZZzv4xyRG9SOjwL/Projects?node-id=20-5687&t=arOU3v6c7nOAHEKM-0)**
+
+---
 ## Featured Projects
 
 - **[AI-virtual-mouse](https://github.com/shivarajhiremath8/AI-virtual-mouse)**
