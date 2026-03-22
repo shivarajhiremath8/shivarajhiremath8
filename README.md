@@ -31,7 +31,7 @@ I'm a frontend developer and designer building intuitive, modern web experiences
 
 ---
 
-## Let’s Connect
+## Let’s Connect..
 
 | Website | LinkedIn | Showcase | GitHub | Email |
 | :----------: | :--------: | :--------: | :-------: | :------: |
