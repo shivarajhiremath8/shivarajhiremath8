@@ -21,6 +21,7 @@ I'm a frontend developer and designer building intuitive, modern web experiences
 
 - **[Milking Brand](https://milking.org.in/)** India’s first Certified Humane Dairy brand promoting ethical farming and premium-quality milk products.
 - **[Milking Farm Booking System](https://milking.org.in/book-farm-visit)** A full-stack booking engine with real-time slot locking, multi-step validation, and integrated Razorpay payments.
+- **[Inventory Management](https://shree-inventory-management.vercel.app/guest)** A comprehensive full-stack system for tracking complex stock movements, featuring automated unit conversions (boxes to pieces), real-time Google Sheets synchronization, and detailed analytics.
 - **[Pixa AI](https://pixelamedia.com/)** An interactive digital strategist using real-time voice analysis to transform business ideas into visual roadmaps and workflows.
 - **[Pixela Media](https://pixelamedia.com/)** A digital growth agency platform focused on evolving complex technology into intuitive, high-performance user experiences.
 - **[Gau Sampurna](https://gausampurna.com/)** A unified agri-tech e-commerce ecosystem (Web & App) connecting traditional dairy producers with modern consumers.
