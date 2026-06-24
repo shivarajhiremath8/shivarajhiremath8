@@ -26,7 +26,6 @@ I'm a frontend developer and designer building intuitive, modern web experiences
 - **[Pixela Media](https://pixelamedia.com/)** A digital growth agency platform focused on evolving complex technology into intuitive, high-performance user experiences.
 - **[Gau Sampurna](https://gausampurna.com/)** A unified agri-tech e-commerce ecosystem (Web & App) connecting traditional dairy producers with modern consumers.
 - **[Sri Lakshmi Tractor Tech](https://www.srilakshmitractortech.com/)** An authorized John Deere dealer platform showcasing advanced tractors, technical specs, and modern farming solutions.
-- **[Quad-Segretronics-Dashboard](https://shivarajhiremath8.github.io/mainproject/)** A responsive web dashboard for AI-based smart waste segregation built with HTML, Tailwind CSS, & JS.
 - **[Json-tree-visualizer](https://json-tree-visualizer-prototype.vercel.app/)** A React + React Flow tool to visualize JSON as a clean, searchable, and zoomable hierarchical tree.
 - **[AI-virtual-mouse](https://github.com/shivarajhiremath8/AI-virtual-mouse)** A virtual mouse that uses MediaPipe and OpenCV to control the cursor through real-time hand gestures.
 
