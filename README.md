@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm a frontend developer and designer building intuitive, modern web experiences with clean code, thoughtful design, and a strong focus on performance and usability. Currently expanding into full-stack development.
+I'm a Product-Focused Software Engineer and designer building intuitive, modern web experiences with clean code, thoughtful design, and a strong focus on performance and usability. Currently expanding into full-stack development.
 
 ---
 
@@ -8,11 +8,11 @@ I'm a frontend developer and designer building intuitive, modern web experiences
 
 - **Languages & Frameworks:** Python, JavaScript (ES6+), React, Next.js
 - **Styling & Design:** CSS3, Tailwind CSS, Framer, Figma
-- **Backend & Other:** FastAPI, Node.js, Supabase, MySQL, MongoDB, PostgreSQL, OpenCV, Git, Postman
+- **Backend & Other:** FastAPI, Node.js, Supabase, MySQL, PostgreSQL, OpenCV, AWS, GCP, Docker, Jenkins, Postman
 
 ---
 
-## Figma Projects
+## My All Projects
 - **[All Design's link](https://www.figma.com/design/N1PJRCKZZzv4xyRG9SOjwL/Projects?node-id=20-5687&t=arOU3v6c7nOAHEKM-0)**
 
 ---
