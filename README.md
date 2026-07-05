@@ -13,7 +13,7 @@ I'm a Product-Focused Software Engineer and designer building intuitive, modern 
 ---
 
 ## My All Projects
-- **[All Design's link](https://www.figma.com/design/N1PJRCKZZzv4xyRG9SOjwL/Projects?node-id=20-5687&t=arOU3v6c7nOAHEKM-0)**
+- **[All Projects's](https://www.figma.com/design/N1PJRCKZZzv4xyRG9SOjwL/Projects?node-id=20-5687&t=arOU3v6c7nOAHEKM-0)**
 
 ---
 
